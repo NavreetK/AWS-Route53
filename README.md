@@ -1,10 +1,10 @@
 # AWS-Route53
 A website is hosted on AWS by using following resources:
-*EC2 instance running a website
-*ASG (Auto Scaling Group)
-*ALB (Application Load Balancer)
-*AWS Route 53
-*ACM (AWS Certificate Manager)
+* EC2 instance running a website
+* ASG (Auto Scaling Group)
+* ALB (Application Load Balancer)
+* AWS Route 53
+* ACM (AWS Certificate Manager)
 
 ## Auto Scaling Group
 An Amazon EC2 Auto Scaling group (ASG) contains a collection of EC2 instances that share similar characteristics and are treated as a logical grouping for the purposes of fleet management and dynamic scaling.
